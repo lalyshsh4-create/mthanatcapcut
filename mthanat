@@ -4,11 +4,11 @@
     "packageName": "com.lemon.lvoverseas",
     "versionCode": 15702050,
     "updateUrl": "https://t.me/fotball_kora",
-    "title": "تم تنزيل اصدار جديد v33.3.3!",
+    "title": "تم تنزيل اصدار جديد v22.2.2!",
     "description": "يتوفر تحديث جديد.\n1.تم اصلاح المشاكل\n2.القوالب وكل شيء شغال\n4.يرجى التحديث الى احدث اصدار",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
     "closeButtonText": "Exit",
     "updateButtonText": "Update Now!"
   }
